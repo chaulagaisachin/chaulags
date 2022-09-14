@@ -1,8 +1,9 @@
 
 ## 🚀 About Me :name_badge:
+<img src="https://img.shields.io/badge/-Sachin%20C.%20Chaulagai.-red?style=for-the-badge" width=400>
 I'm a Cyber Security Enthusiast  :octocat:  ...
 
-
+<img src="https://img.shields.io/badge/-Security%20Researcher.-black?style=for-the-badge" width=400>
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachin-c-543091190/) [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ChaulagaiSachin)
 
