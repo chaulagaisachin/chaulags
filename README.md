@@ -14,4 +14,4 @@ Ansible | VCS | Git | ELK | Database | Encryption | Nginx | Apache |
 Cloud Computing | Virtualization | AWS | Azure | Active Directory |
 
 
-![Cisco Logo](https://www.freepnglogos.com/uploads/cisco-png-logo/cisco-ccna-png-logo-16.png) ![CEH Logo](https://aspen.eccouncil.org/Content/Badges/TrainedBadges/CEH_9582F3793CA1.png)
+![Cisco Logo](https://images.credly.com/size/680x680/images/a31c0301-ff96-4cee-9435-0a4b40ce6e66/cisco_ccna_R_26S.png) ![CEH Logo](https://aspen.eccouncil.org/Content/Badges/TrainedBadges/CEH_9582F3793CA1.png)
