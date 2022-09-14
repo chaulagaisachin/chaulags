@@ -17,6 +17,7 @@
 ![](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 ![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/Networking-F05032?style=for-the-badge&logo=networking&logoColor=white)
 <!-- Python :snake: | Bash Scripting | Linux | Networking | Docker |
 Ansible | VCS | Git | ELK | Database | Encryption | Nginx | Apache |
 Cloud Computing | Virtualization | AWS | Azure | Active Directory | -->
