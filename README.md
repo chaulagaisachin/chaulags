@@ -1,6 +1,6 @@
 
-## 🚀 About Me
-I'm a Cyber Security Enthusiast...
+## 🚀 About Me :name_badge:
+I'm a Cyber Security Enthusiast :octocat: ...
 
 
 ## 🔗 Links
@@ -11,22 +11,9 @@ I'm a Cyber Security Enthusiast...
 
 
 ## 🛠 Skills
-Python |
-Bash Scripting |
-Linux |
-Networking |
-Docker |
-Ansible |
-VCS | Git |
-ELK |
-Database |
-Encryption |
-Nginx | Apache |
-Cloud Computing |
-Virtualization |
-AWS | Azure |
-Active Directory |
+Python :snake: | Bash Scripting | Linux | Networking | Docker |
+Ansible | VCS | Git | ELK | Database | Encryption | Nginx | Apache |
+Cloud Computing | Virtualization | AWS | Azure | Active Directory |
 
 
 ![Logo](https://images.credly.com/size/680x680/images/a31c0301-ff96-4cee-9435-0a4b40ce6e66/cisco_ccna_R_26S.png)
-
