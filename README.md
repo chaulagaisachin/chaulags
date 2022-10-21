@@ -22,6 +22,9 @@
 <!-- Python :snake: | Bash Scripting |  | Networking |  |
 Ansible | VCS | Git | ELK | Database | Encryption | Nginx | Apache |
 Cloud Computing | Virtualization | AWS | Azure | Active Directory | -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chaulags&show_icons=true&locale=en" alt="chaulags" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaulags&" alt="chaulags" /></p>
 
 ![Cisco Logo](https://images.credly.com/size/680x680/images/a31c0301-ff96-4cee-9435-0a4b40ce6e66/cisco_ccna_R_26S.png) ![CEH Logo](https://aspen.eccouncil.org/Content/Badges/TrainedBadges/CEH_9582F3793CA1.png)
 
