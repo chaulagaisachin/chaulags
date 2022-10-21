@@ -26,6 +26,9 @@ Cloud Computing | Virtualization | AWS | Azure | Active Directory | -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaulags&" alt="chaulags" /></p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chaulags" alt="chaulags" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/ChaulagaiSachin" target="blank"><img src="https://img.shields.io/twitter/follow/chaulags?logo=twitter&style=for-the-badge" alt="chaulags" /></a> </p>
 ![Cisco Logo](https://images.credly.com/size/680x680/images/a31c0301-ff96-4cee-9435-0a4b40ce6e66/cisco_ccna_R_26S.png) ![CEH Logo](https://aspen.eccouncil.org/Content/Badges/TrainedBadges/CEH_9582F3793CA1.png)
 
 ## Acknowledgements
